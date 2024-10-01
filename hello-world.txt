@@ -3,3 +3,5 @@ hello world!
 testing
 
 testing branch
+
+branch3 - merge test
