@@ -1,1 +1,1 @@
-# CAT-DOG-Study-2024-2R
+# Git-Study-2024-2R
